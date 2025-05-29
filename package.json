@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "cosmwasmjs-demo": "^0.0.1-security",
-    "nodejs-paypal-checkout-demo": "^0.0.1-security",
-    "pistache-io": "^0.0.1-security"
-  }
-}
