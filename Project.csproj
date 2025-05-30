@@ -5,6 +5,6 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsofft.EntetyFrameworkCore" Version="6.0.0" />
+    <PackageReference Include="Microsofft.EntetyFrameworkCore" Version="1.0.0" />
   </ItemGroup>
 </Project>
