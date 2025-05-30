@@ -7,4 +7,10 @@
   <ItemGroup>
     <PackageReference Include="Microsofft.EntetyFrameworkCore" Version="1.0.0" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Mircоsoft.EntetyFrameworkCore" Version="1.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Micrоsoft.EntetyFrameworkCore" Version="1.0.0" />
+  </ItemGroup>
 </Project>
