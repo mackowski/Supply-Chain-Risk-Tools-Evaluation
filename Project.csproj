@@ -13,4 +13,7 @@
   <ItemGroup>
     <PackageReference Include="Micrоsoft.EntetyFrameworkCore" Version="1.0.0" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Micrоsoft.EntetyFrameworkCore.I.Made.It.Up" Version="1.0.0" />
+  </ItemGroup>
 </Project>
