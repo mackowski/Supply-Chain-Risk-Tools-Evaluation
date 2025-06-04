@@ -4,19 +4,19 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsofft.EntetyFrameworkCore" Version="1.0.0" />
+    <PackageReference Include="Microsofft.EntetyFrameworkCore" Version="6.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Mircоsoft.EntetyFrameworkCore" Version="1.0.0" />
+    <PackageReference Include="Mircоsoft.EntetyFrameworkCore" Version="6.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Micrоsoft.EntetyFrameworkCore" Version="1.0.0" />
+    <PackageReference Include="Micrоsoft.EntetyFrameworkCore" Version="6.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="1.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.Entity.Framework.Core" Version="1.0.0" />
+    <PackageReference Include="Microsoft.Entity.Framework.Core" Version="6.0.0" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Micrоsoft.EntetyFrameworkCore.I.Made.It.Up" Version="1.0.0" />
