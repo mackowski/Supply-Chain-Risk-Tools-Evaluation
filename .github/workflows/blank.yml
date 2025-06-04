@@ -28,3 +28,6 @@ jobs:
         uses: endorlabs/github-action@v1
         with:
           namespace: "relativity"
+          api_key: ${{ secrets.ENDOR_API_KEY }}
+          api_secret: ${{ secrets.ENDOR_API_SECRET }}
+          
