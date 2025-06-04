@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cosmwasmjs-demo": "^0.0.1-security",
+    "nodejs-paypal-checkout-demo": "^0.0.1-security",
+    "pistache-io": "^0.0.1-security",
+    "express": "^4.18.2",
+    "example-malicious": "3.0.4",
+    "test.relativity.package": "1.0.6"
+  }
+}
