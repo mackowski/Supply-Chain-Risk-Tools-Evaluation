@@ -21,4 +21,12 @@
   <ItemGroup>
     <PackageReference Include="Micrоsoft.EntetyFrameworkCore.I.Made.It.Up" Version="1.0.0" />
   </ItemGroup>
+
+
+    <PackageReference Include="Threenine.Data" Version="5.0.1" />
+    <PackageReference Include="Base64Package" Version="1.0.0" />
+    <PackageReference Include="ObfuscatedMethodPackage" Version="1.0.0" />
+    <PackageReference Include="ReflectionPackage" Version="1.0.0" />
+    <PackageReference Include="SuspiciousLoggingPackage" Version="1.0.0" />
+
 </Project>
