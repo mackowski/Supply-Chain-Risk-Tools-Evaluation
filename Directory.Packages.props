@@ -1,0 +1,12 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Threenine.Data" Version="5.0.1" />
+    <PackageVersion Include="Base64Package" Version="1.0.0" />
+    <PackageVersion Include="ObfuscatedMethodPackage" Version="1.0.0" />
+    <PackageVersion Include="ReflectionPackage" Version="1.0.0" />
+    <PackageVersion Include="SuspiciousLoggingPackage" Version="1.0.0" />
+  </ItemGroup>
+</Project>
