@@ -3,9 +3,13 @@ name: Packj audit demo
 
 # Controls when the workflow will run
 on:
+  push:
+    branches:
+      - main
   pull_request:
     branches:
       - main
+      
 permissions:
   contents: write
   pull-requests: write
@@ -22,6 +26,12 @@ jobs:
       - name: Audit dependencies
         uses: ossillate-inc/packj-github-action@ashishbijlani-patch-2
         with:
-          DEPENDENCY_FILES: pypi:requirements.txt,npm:package.json, nuget:Project.csproj
+          DEPENDENCY_FILES: pypi:requirements.txt, npm:package.json, nuget:Project.csproj
+          REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Audit dependencies - nuget
+        uses: ossillate-inc/packj-github-action@ashishbijlani-patch-2
+        with:
+          DEPENDENCY_FILES: nuget:Project.csproj
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
