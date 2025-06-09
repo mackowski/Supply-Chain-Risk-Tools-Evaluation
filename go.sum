@@ -2,3 +2,5 @@ github.com/mackowski/ObfuscatedMethodPackage v0.0.0-20250605142613-84de93a38136 
 github.com/mackowski/ObfuscatedMethodPackage v0.0.0-20250605142613-84de93a38136/go.mod h1:vSHg9uy/Z92JrMJ8+jw7oQDWAEI5hy9JaiQaO3P3hk4=
 github.com/mackowski/reflection v0.0.0-20250606095118-37502ce46822 h1:p7rxt+Gt44goVlufvvuhjRDhOD6gZIyDB2YQzM47T/U=
 github.com/mackowski/reflection v0.0.0-20250606095118-37502ce46822/go.mod h1:R86b+4V78gym6ODvMG+BywGY48EnC7PhEg7KvsdQAp4=
+github.com/mackowski/reflection v1.0.0 h1:cZYkV4HquCJNnL5XhEOGR3RR/HE6LwxiBwOWlXeKucw=
+github.com/mackowski/reflection v1.0.0/go.mod h1:R86b+4V78gym6ODvMG+BywGY48EnC7PhEg7KvsdQAp4=
