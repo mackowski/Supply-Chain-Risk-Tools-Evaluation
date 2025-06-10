@@ -28,5 +28,6 @@
     <PackageReference Include="ObfuscatedMethodPackage" Version="1.0.0" />
     <PackageReference Include="ReflectionPackage" Version="1.0.0" />
     <PackageReference Include="SuspiciousLoggingPackage" Version="1.0.0" />
+<PackageReference Include="OtherMiddlewireTest" Version="1.0.0" />
 
 </Project>
